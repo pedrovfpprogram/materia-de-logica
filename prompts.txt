@@ -1,0 +1,3 @@
+Explique cada parte da estrutura do app completo. Quero conceitos, fundamentos, finalidade e utilidade de cada parte do app acima. Explique literalmente tudo sem resumos, sem simplicações e sem faltar nada que possa comprometer o entendimento completo e correto de todos os conceitos e fundsmentações necessarias
+
+
